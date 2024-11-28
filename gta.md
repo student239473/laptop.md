@@ -55,3 +55,5 @@ For more details, visit the following links:
 
 *   [GTA V on Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V)
 *   [Official Rockstar Games Page](https://www.rockstargames.com/V/)
+
+*   - [LoL](LeagueOfLegends.md)

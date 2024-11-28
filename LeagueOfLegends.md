@@ -60,3 +60,8 @@ The **League of Legends World Championship** is an annual event where the best t
 ---
 
 Please do not play this game if u are smart.
+
+## Game pages
+- [Gta](gta.md)
+- [LoL](LeagueOfLegends.md)
+- []()

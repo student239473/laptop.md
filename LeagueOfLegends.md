@@ -63,4 +63,4 @@ Please do not play this game if u are smart.
 
 ## Game pages
 - [Gta](gta.md)
-- [The Legend of Zelda](The Legend of Zelda.md)
+- [The Legend of Zelda](The_Legend_of_Zelda.md)
